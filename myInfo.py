@@ -4,3 +4,4 @@
 print ("My name is Chris Skwirut")
 print ("My address is 123 Main St Nowhere, NJ 09876")
 print ("My telephone number is 123-456-7890")
+print ("My Major is Accounting")
